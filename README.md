@@ -1,2 +1,3 @@
 Aplikasi manajemen basis data untuk Perpustakaan menggunakan Ms.Acces
+Proyek ini adalah sebagai tugas akhir mata kuliah basis data. Tim kami membuat suatu sistem pengelolaan data yang mencakup data buku, data anggota, serta data peminjaman dan pengembalian buku, dengan menggunakan Microsoft Access 2016. Tim kami memilih Microsoft Access karena aplikasi database ini memungkinkan pembuatan program yang sesuai dengan kebutuhan dan desain yang dapat disesuaikan dengan preferensi. Fitur-fitur seperti tabel, Query, formulir, dan laporan yang dimiliki oleh Microsoft Access dapat digunakan untuk mengelompokkan buku, mencatat keanggotaan, serta mencatat peminjaman dan pengembalian buku di perpustakaan. Saya sebagai project leader dan implementator
 Mohon izin terlebih dahulu.
